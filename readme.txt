@@ -1,0 +1,10 @@
+--Aaron Dabelow, theonlyaaron@gmail.com
+-- www.aarondabelow.com
+-- Written for MAX v.9.0 and up
+--*****************************************************
+-- PURPOSE:
+--		Mirror Rigging
+--*****************************************************
+-- HISTORY:
+--    - v1.0 (4.3.13):
+--        (i) 1st version.
